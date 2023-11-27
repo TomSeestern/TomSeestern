@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">Computer scientist junior with more than 5 years of experience in project work and freelancing. Trained in machine learning, statistics, problem solving and programming.</h3>
+<h3 align="center">Computer scientist  with more than 10 years of experience in project work and freelancing. Trained in machine learning, statistics, problem solving and programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomseestern&label=Profile%20views&color=0e75b6&style=flat" alt="tomseestern" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomseestern" alt="tomseestern" /></a> </p>
 
-- 🔭 I’m currently working on **my Bachelor Thesis**
+- 🔭 I’m currently working on [www.layzr.gg](www.layzr.gg)
 
-- 🌱 I’m currently learning **Tensorflow and Keras**
+- 🌱 I’m currently learning **All things AI**
 
 - 👨‍💻 All of my projects are available at [www.tomsegbers.de](www.tomsegbers.de)
 
